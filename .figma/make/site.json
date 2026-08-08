@@ -1,0 +1,10 @@
+{
+  "description": "Enables clients to book barber services and allows admins and barbers to manage appointments, schedules, and track revenue efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
